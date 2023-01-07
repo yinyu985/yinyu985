@@ -102,7 +102,7 @@
 ## Spotify Listening
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ew3d5s584pj5ctjz82f1hw2ow&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ew3d5s584pj5ctjz82f1hw2ow&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
@@ -113,3 +113,5 @@
 
 <br />
 
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
