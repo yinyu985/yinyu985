@@ -25,7 +25,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="60%">
+<table><tr><td valign="top" width="70%">
 
 - 👨🏻‍💻 I’m currently working on 📕
 
@@ -41,7 +41,7 @@
 
 - ❓ Ask me about anything related to  Prometheus and related technologies    
 
-</td><td align="center" width="40%">
+</td><td align="center" width="30%">
 
 <div align="right">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="right" style="width: 100%" />
@@ -113,5 +113,3 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
