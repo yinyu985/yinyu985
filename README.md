@@ -110,7 +110,9 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=yinyu985&&style=flat-square)  
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=yinyu985&&style=flat-square" align="center" />
+</div>  
   
 
 <br/>  
