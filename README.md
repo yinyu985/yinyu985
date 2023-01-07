@@ -29,15 +29,15 @@
 
 - 👨🏻‍💻 I’m currently working on 📕
 
-<br> <br/>
+
 
 - 📚 I’m currently learning Go and Kubernetes    
 
-<br> <br/>
+
 
 - 📝  There are some technical articles I recorded on my [blog](https://yinyu985.github.io/)  
 
-<br> <br/>
+
 
 - ❓ Ask me about anything related to  Prometheus and related technologies    
 
