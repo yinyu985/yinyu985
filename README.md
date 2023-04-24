@@ -3,11 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Yates, a full-time Senior Reboot Export,nice to meet you!</div>  
+### <div align="center">I'm Yates, a full-time Senior Reboot Export,I recorded on my [blog](https://yinyu985.github.io)</div>  
 <div align="center"> 👨🏻‍💻 I’m currently working on 📕
 <div align="center"> 🔭 I’m currently learning Go and Kubernetes    
-<div align="center"> ❓ Ask me about anything related to  Prometheus and related technologies    
-<div align="center"> 📝  There are some technical articles I recorded on my [blog](https://yinyu985.github.io)
+<div align="center"> ❓ Ask me about anything related to  Prometheus and related technologies
 
 
   
