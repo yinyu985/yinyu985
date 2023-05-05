@@ -4,9 +4,9 @@
   
 
 ### <div align="center">I'm Yates, a full-time Senior Reboot Export,I recorded on my [blog](https://yinyu985.github.io)</div>  
-<div align="center"> 👨🏻‍💻 I’m currently working on 📕
-<div align="center"> 🔭 I’m currently learning Go and Kubernetes    
-<div align="center"> ❓ Ask me about anything related to  Prometheus and related technologies
+<div align="center"> 👨🏻‍💻 I am looking for a job, if you have a suitable position, please contact me
+<div align="center"> 🔭 I'm currently focusing on Kubernetes/Prometheus/VictoriaMetrics/ELk/Jenkins
+<div align="center"> ❓ Ask me any questions about Prometheus/ELK/Docker and related technologies
 
 
   
