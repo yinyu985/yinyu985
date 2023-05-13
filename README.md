@@ -12,16 +12,16 @@
   
 ## Connect with me  
 <div align="center">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15968757/erdeng" target="_blank">
+<a href="https://stackoverflow.com/users/15968757/erdeng" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/Erdeng10" target="_blank">
+<a href="https://twitter.com/Erdeng10" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCphnqPI0Vq1ylEzHfU0R1Ng" target="_blank">
+<a href="https://www.youtube.com/user/channel/UCphnqPI0Vq1ylEzHfU0R1Ng" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/er-deng-155269227/" target="_blank">
+<a href="https://www.linkedin.com/in/er-deng-155269227/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
