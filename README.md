@@ -3,9 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Yates, a full-time Senior Reboot Export,I recorded on my [blog](https://yinyu985.github.io)</div>  
-<div align="center"> 👨🏻‍💻 I am looking for a job, if you have a suitable position, please contact me
-<div align="center"> 🔭 I'm currently focusing on Kubernetes/Prometheus/Thanos/Istio
+### <div align="center">I'm Yates, a full-time Senior Reboot Expert,I recorded on my [blog](https://yinyu985.github.io)</div>  
+<div align="center"> 🔭 I'm currently focusing on Kubernetes/Prometheus/ELK/Istio
 
 
   
