@@ -4,16 +4,16 @@
   
 
 ### <div align="center">I'm Yates, a full-time Senior Reboot Expert,I recorded on my [blog](https://yinyu985.github.io)</div>  
-<div align="center"> 🔭 I'm currently focusing on Kubernetes/Prometheus/ELK/Istio
+<div align="center"> I'm currently focusing on Kubernetes/ElasticSearch/Prometheus/Cloud native </div> 
 
 
   
 ## Connect with me  
 <div align="center">
-<a href="https://stackoverflow.com/users/15968757/erdeng" target="_blank">
+<a href="https://stackoverflow.com/users/15968757/yinyu985" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Erdeng10" target="_blank">
+<a href="https://twitter.com/yinyu985" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/yinyu985/" target="_blank">
@@ -51,18 +51,6 @@
 
 </div>  
 
-
-
-
-
-## Spotify Listening
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=ew3d5s584pj5ctjz82f1hw2ow&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-
-  
 
 <br/>  
 
