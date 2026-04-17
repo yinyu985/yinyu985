@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="[yates@node-01 ~]$ whoami; cloud native / observability / search / ai; I'm Yates. I write things down on my blog.">
+  <rect width="1200" height="230" fill="#000000"/>
+  <text x="46" y="58" fill="#39ff14" font-size="24"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    <tspan xml:space="preserve">[yates@node-01 ~]$ whoami</tspan>
+  </text>
+  <text x="46" y="96" fill="#39ff14" font-size="24"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    <tspan xml:space="preserve">cloud native / observability / search / ai</tspan>
+  </text>
+  <text x="46" y="146" fill="#39ff14" font-size="24"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    <tspan xml:space="preserve">I'm Yates. I write things down on my </tspan><tspan fill="#7dd3fc" text-decoration="underline">blog</tspan><tspan>.</tspan>
+  </text>
+  <text x="46" y="184" fill="#39ff14" font-size="24"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace">
+    <tspan xml:space="preserve">Based in Hangzhou, China. AI Agents / cloud native / observability / search.</tspan>
+  </text>
+</svg>
